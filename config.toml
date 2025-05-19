@@ -30,9 +30,9 @@ nav_logo = "/img/logo.webp"
 # 联系邮箱
 mail = "contact@example.com"
 # ICP 备案号
-compliance_icp = "ICP备XXXXXXXX号"
+compliance_icp = "鲁ICP备19012854号-1"
 # 公安备案号
-compliance_security = "公网安备0000000000号"
+compliance_security = "鲁公网安备37011202002333号"
 # 公安备案链接
 compliance_security_link = "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=0000000000"
 
